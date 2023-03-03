@@ -1,0 +1,36 @@
+Mission Impossible Mission Generator
+Format is:
+"Your mission, should you choose to accept is, is:
+Travel to ____. (City, Country)
+Once there you will meet your contact, look for ___ (description of contact).
+The passphrase is "_____" (random spy passcodes).
+The primary target is highly classified information on an encrypted drive. You will need to infiltrate and obtain.
+The contact will have further details.
+This message will sefl-destuct in 10...9...8...
+
+List of cities:
+Pairs, France
+Berlin, Germany
+Moscow, Russia
+London, England
+Washignton D.C., USA
+Cairo, Egypt
+Stockholm, Sweden
+
+List of contacts:
+a woman with a large red hat and black scarf.
+a suited man with umbrella and breifcase.
+a man with a large scar across his left eye and an orange tie.
+a woman with wire-rimmed glasses and a sunhat.
+a woman in a flowered dress and missing her right ring finger.
+a man with a black trenchcoat across from the hot-dog stand.
+
+
+List of passcodes:
+The weather is brisk and nippy today.
+Did you catch the A-13 bus to get here?
+Have you tried Megliani's spaghetti?
+Did I see you at the dentist yesterday?
+
+
+
